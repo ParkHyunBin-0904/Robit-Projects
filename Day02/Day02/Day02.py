@@ -15,7 +15,7 @@ try:
         # 한 줄씩 읽기
         for row in reader:
 
-            name = row[0]
+            name = row["name"]
             score_text = row[1]
 
             # 숫자로 변환
