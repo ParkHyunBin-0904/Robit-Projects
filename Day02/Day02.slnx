@@ -2,7 +2,7 @@
   <Folder Name="/솔루션 항목/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="Day02/Day02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="Day02/Day02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="7e01409c-ca43-4751-910e-29d832f3747e">
     <Build Project="false" />
   </Project>
 </Solution>

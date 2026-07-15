@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 *.env
+# ==========================================
+# Visual Studio 2026 설정 및 프로젝트 파일 제외
+# ==========================================
+*.slnx
+*.pyproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
