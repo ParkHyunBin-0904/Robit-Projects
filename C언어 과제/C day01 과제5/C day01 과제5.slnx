@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C day01 과제5/C day01 과제5.vcxproj" />
+  <Project Path="C day01 과제6/C day01 과제6.vcxproj" />
+  <Project Path="C day01 과제7/C day01 과제7.vcxproj" />
+</Solution>
